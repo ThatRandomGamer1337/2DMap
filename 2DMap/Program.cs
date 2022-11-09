@@ -10,6 +10,18 @@ namespace _2DMap
     {
         static void Main(string[] args)
         {
+
+
         }
+
+        void DisplayMap()
+        {
+
+        }
+        void DisplayMap(int scale)
+        {
+
+        }
+
     }
 }
