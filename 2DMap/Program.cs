@@ -12,14 +12,18 @@ namespace _2DMap
         {
 
 
-        }
 
+        }
         void DisplayMap()
         {
+
+
 
         }
         void DisplayMap(int scale)
         {
+
+
 
         }
 
